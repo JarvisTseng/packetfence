@@ -244,6 +244,7 @@ Requires: perl(Linux::Inotify2)
 Requires: perl(File::Touch)
 Requires: perl(Hash::Merge)
 Requires: perl(IO::Socket::INET6)
+Requires: perl(Time::Period)
 # configuration-wizard
 Requires: iproute, vconfig
 #
